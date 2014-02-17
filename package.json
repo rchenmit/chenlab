@@ -1,0 +1,18 @@
+{
+  "name": "chenlab",
+  "version": "0.0.0",
+  "description": "chenlab =======",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rchenmit/chenlab.git"
+  },
+  "author": "",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/rchenmit/chenlab/issues"
+  }
+}
